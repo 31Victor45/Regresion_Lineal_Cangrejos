@@ -136,7 +136,7 @@ def generate_pie_chart(values, labels, title=''):
 
 # --- Función principal de la aplicación Streamlit ---
 def main():
-    st.title("Análisis de los Cangrejos 🦀 (Modelo Simplificado por Peso)")
+    st.title("Análisis de los Cangrejos 🦀")
 
     # Sidebar para la entrada del usuario
     with st.sidebar:

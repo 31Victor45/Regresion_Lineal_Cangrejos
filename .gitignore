@@ -1,0 +1,6 @@
+# Entornos virtuales
+venv/
+streamlit_crab_env/
+*.log
+__pycache__/
+.ipynb_checkpoints/

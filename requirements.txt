@@ -1,0 +1,15 @@
+# requirements.txt para la aplicación Streamlit de análisis de cangrejos simplificado
+streamlit==1.45.1
+
+pandas==2.3.0
+numpy==2.3.0
+
+# Funciones estadísticas, incluyendo Box-Cox y su inversa
+scipy==1.15.3
+
+# Visualización de datos
+matplotlib==3.10.3
+seaborn==0.13.2
+
+# Librería para modelos de machine learning
+scikit-learn==1.7.0
